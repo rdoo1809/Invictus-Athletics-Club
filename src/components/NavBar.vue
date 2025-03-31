@@ -1,5 +1,5 @@
 <script setup>
-import {computed, ref, watch} from "vue";
+import {ref} from "vue";
 import LogoBlack from "@/assets/logo_black.png"
 import LogoWhite from "@/assets/logo_white.png"
 import {useDark} from "@vueuse/core";

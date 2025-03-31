@@ -4,7 +4,7 @@ import ThemeToggler from "@/components/ThemeToggler.vue";
 import {watch} from "vue";
 import {useDark} from "@vueuse/core";
 import Footer from "@/components/Footer.vue";
-import VideoHeader from "@/components/VideoHeader.vue";
+import MediaScroller from "@/components/MediaScroller.vue";
 
 const isDark = useDark();
 
@@ -16,6 +16,7 @@ watch(isDark, (newVal) => {
 <template>
   <NavBar/>
 <!--  <VideoHeader />-->
+  <MediaScroller />
 
   <div class="max-w-full flex justify-center">
 
