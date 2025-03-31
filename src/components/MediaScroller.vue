@@ -1,5 +1,5 @@
 <script setup>
-import { ref } from 'vue';
+import {onMounted, onUnmounted, ref} from 'vue';
 import Image1 from "@/assets/scroller/aidenC.jpeg"
 import Image2 from "@/assets/scroller/beechy.png"
 import Image3 from "@/assets/scroller/coleCoach.png"
@@ -14,17 +14,48 @@ import Image11 from "@/assets/scroller/teamO.jpeg"
 import Image12 from "@/assets/scroller/squad2018.jpeg"
 
 const images = ref([
-    Image1, Image3, Image4, Image5, Image2, Image6, Image7, Image8, Image9, Image10, Image11, Image12
+    Image1, Image5, Image4, Image3, Image2, Image6, Image7, Image8, Image9, Image10, Image11, Image12
 ]);
+
+const selectedImage = ref(null);
+
+const openFullImg = (pic) => {
+  selectedImage.value = pic;
+  console.log(selectedImage)
+};
+
+const closeFullImg = () => {
+  selectedImage.value = null;
+};
+
+const handleKeyDown = (e) => {
+  if (e.key === "Escape") closeFullImg();
+};
+
+onMounted(() => window.addEventListener("keydown", handleKeyDown));
+onUnmounted(() => window.removeEventListener("keydown", handleKeyDown));
 </script>
 
 <template>
-  <div class="media-scroller snaps-inline dark:bg-black">
+  <div class="media-scroller snaps-inline dark:bg-black bg-white">
     <div
         v-for="(img, index) in images"
         :key="index"
         class="media-element">
-      <img :src="img" alt="Image" />
+      <img :src="img" alt="Image" @click="openFullImg(img)" />
+    </div>
+  </div>
+
+    <div class="w-full flex justify-end bg-white dark:bg-black">
+      <p class="text-xs font-thin mr-2 dark:text-white">Click to Enlarge</p>
+    </div>
+
+  <div v-if="selectedImage" class="fixed inset-0 flex items-center justify-center bg-black bg-opacity-80 z-50">
+    <div class="relative max-w-4xl w-full p-4">
+      <button
+          class="absolute top-2 right-2 text-white text-3xl"
+          @click="closeFullImg">X</button>
+      <img :src="selectedImage" class="w-full max-h-[80vh] object-contain rounded-md" />
     </div>
   </div>
 </template>
