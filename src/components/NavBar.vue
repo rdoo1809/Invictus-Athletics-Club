@@ -19,10 +19,10 @@ const toggleMenu = () => {
       <img :src="isDark ? LogoWhite : LogoBlack" alt="Logo" class="h-20 w-20">
 
       <div class="hidden md:flex space-x-6">
-        <a href="#" class="nav-link">NavLink1</a>
-        <a href="#" class="nav-link">NavLink2</a>
-        <a href="#" class="nav-link">NavLink3</a>
-        <a href="#" class="nav-link">NavLink4</a>
+        <a href="#" class="nav-link">ABOUT</a>
+        <a href="#" class="nav-link">HISTORY</a>
+        <a href="#" class="nav-link">GALLERY</a>
+        <a href="#" class="nav-link">CONTACT</a>
       </div>
 
       <!-- Mobile Nav -->
@@ -34,20 +34,21 @@ const toggleMenu = () => {
     </div>
 
     <div v-if="isOpen" class="md:hidden bg-white dark:bg-black">
-      <a href="#" class="nav-link-mobile">NavLink1</a>
-      <a href="#" class="nav-link-mobile">NavLink2</a>
-      <a href="#" class="nav-link-mobile">NavLink3</a>
-      <a href="#" class="nav-link-mobile">NavLink4</a>
+      <a href="#" class="nav-link mobile">ABOUT</a>
+      <a href="#" class="nav-link mobile">HISTORY</a>
+      <a href="#" class="nav-link mobile">GALLERY</a>
+      <a href="#" class="nav-link mobile">CONTACT</a>
     </div>
   </nav>
 </template>
 
 <style scoped>
 .nav-link {
-  @apply text-black dark:text-white hover:text-blue-500;
+  @apply text-black dark:text-white hover:text-yellow-400 dark:hover:text-yellow-400 text-lg;
+  font-family: "Fjalla One", sans-serif;
 }
 
-.nav-link-mobile {
-  @apply block px-4 py-2 text-black dark:text-white hover:bg-gray-200 dark:hover:bg-gray-400
+.mobile {
+  @apply block px-4 py-2
 }
 </style>

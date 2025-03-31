@@ -3,6 +3,7 @@ import NavBar from "@/components/NavBar.vue";
 import ThemeToggler from "@/components/ThemeToggler.vue";
 import {watch} from "vue";
 import {useDark} from "@vueuse/core";
+import Footer from "@/components/Footer.vue";
 
 const isDark = useDark();
 
@@ -30,6 +31,7 @@ watch(isDark, (newVal) => {
   </div>
 
   <ThemeToggler/>
+  <Footer />
 </template>
 
 
