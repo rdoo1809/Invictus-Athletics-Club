@@ -1,5 +1,6 @@
 <script setup>
 import {ref} from 'vue';
+import ThemeToggler from "@/components/ThemeToggler.vue";
 
 const socialLinks = ref([
   {href: 'https://www.instagram.com/invictusathletics/', icon: 'fa-instagram', color: 'text-pink-400', type: 'brands'},
