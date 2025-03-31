@@ -7,9 +7,14 @@ import Image4 from "@/assets/scroller/oliv.jpeg"
 import Image5 from "@/assets/scroller/threeAmi.jpeg"
 import Image6 from "@/assets/scroller/jusKay.jpeg"
 import Image7 from "@/assets/scroller/districtC.jpeg"
+import Image8 from "@/assets/scroller/alissaRay.jpeg"
+import Image9 from "@/assets/scroller/girlRelay.jpeg"
+import Image10 from "@/assets/scroller/squad2017.png"
+import Image11 from "@/assets/scroller/teamO.jpeg"
+import Image12 from "@/assets/scroller/squad2018.jpeg"
 
 const images = ref([
-    Image1, Image3, Image4, Image5, Image2, Image6, Image7
+    Image1, Image3, Image4, Image5, Image2, Image6, Image7, Image8, Image9, Image10, Image11, Image12
 ]);
 </script>
 
