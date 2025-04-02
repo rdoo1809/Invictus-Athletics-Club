@@ -19,10 +19,9 @@ const toggleMenu = () => {
       <img :src="isDark ? LogoWhite : LogoBlack" alt="Logo" class="h-20 w-20">
 
       <div class="hidden md:flex space-x-6">
-        <a href="#" class="nav-link">ABOUT</a>
-        <a href="#" class="nav-link">HISTORY</a>
-        <a href="#" class="nav-link">GALLERY</a>
-        <a href="#" class="nav-link">CONTACT</a>
+        <a href="#gallery" class="nav-link">GALLERY</a>
+        <a href="#about" class="nav-link">ABOUT</a>
+        <a href="#contact" class="nav-link">CONTACT</a>
       </div>
 
       <!-- Mobile Nav -->
