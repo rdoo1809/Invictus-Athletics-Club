@@ -12,9 +12,11 @@ import Image9 from "@/assets/scroller/girlRelay.jpeg"
 import Image10 from "@/assets/scroller/squad2017.png"
 import Image11 from "@/assets/scroller/teamO.jpeg"
 import Image12 from "@/assets/scroller/squad2018.jpeg"
+import Image13 from "@/assets/scroller/girls_team.png"
+import Image14 from "@/assets/scroller/boys_team.png"
 
 const images = ref([
-    Image1, Image5, Image4, Image3, Image2, Image6, Image7, Image8, Image9, Image10, Image11, Image12
+  Image1, Image5, Image13, Image14, Image4, Image3, Image2, Image6, Image7, Image8, Image9, Image10, Image11, Image12
 ]);
 
 const selectedImage = ref(null);
