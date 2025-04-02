@@ -37,7 +37,7 @@ onUnmounted(() => window.removeEventListener("keydown", handleKeyDown));
 </script>
 
 <template>
-  <div class="media-scroller snaps-inline mt-2 dark:bg-black bg-white">
+  <div class="media-scroller snaps-inline dark:bg-black bg-white">
     <div
         v-for="(img, index) in images"
         :key="index"
@@ -47,7 +47,7 @@ onUnmounted(() => window.removeEventListener("keydown", handleKeyDown));
   </div>
 
     <div class="w-full flex justify-end bg-white dark:bg-black">
-      <p class="text-xs font-thin mr-2 dark:text-white">Click to Enlarge</p>
+      <p class="text-xs font-thin mr-2 my-2 dark:text-white">Click to Enlarge</p>
     </div>
 
   <div v-if="selectedImage" class="fixed inset-0 flex items-center justify-center bg-black bg-opacity-80 z-50">
@@ -72,6 +72,20 @@ onUnmounted(() => window.removeEventListener("keydown", handleKeyDown));
   padding: 0 var(--_spacer) var(--_spacer);
   overflow-x: auto;
   overscroll-behavior-inline: contain;
+  scrollbar-color: gold saddlebrown;
+}
+
+.media-scroller::-webkit-scrollbar {
+  width: 0.5px;
+}
+
+.media-scroller::-webkit-scrollbar-thumb {
+  background-color: gold;
+  border-radius: 384px;
+}
+
+.media-scroller::-webkit-scrollbar-thumb:hover {
+  background-color: rgba(255, 215, 0, 0.75);
 }
 
 .media-element {
