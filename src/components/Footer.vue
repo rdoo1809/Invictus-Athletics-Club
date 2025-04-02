@@ -28,7 +28,7 @@ const socialLinks = ref([
         <i :class="[`fa-${link.type}`, link.icon]"></i> </a>
     </section>
     <p>
-      <strong>&copy;</strong> INVICTUS ATHLETICS CLUB 2023
+      <strong>&copy;</strong> INVICTUS ATHLETICS CLUB 2025
     </p>
   </footer>
 </template>
