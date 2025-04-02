@@ -7,6 +7,7 @@ import Footer from "@/components/Footer.vue";
 import MediaScroller from "@/components/MediaScroller.vue";
 import About from "@/components/About.vue";
 import VideoHeader from "@/components/VideoHeader.vue";
+import Contact from "@/components/Contact.vue";
 
 const isDark = useDark();
 
@@ -27,6 +28,8 @@ watch(isDark, (newVal) => {
   <MediaScroller />
 
   <About/>
+
+  <Contact />
 
   <Footer />
 
