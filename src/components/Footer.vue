@@ -14,9 +14,11 @@ const socialLinks = ref([
 ]);
 </script>
 
+<!--absolute bottom-0 right-0-->
+
 <template>
   <footer
-      class="w-full bg-white dark:bg-black text-center flex flex-col items-center justify-center absolute bottom-0 right-0 -z-10">
+      class="w-full bg-white dark:bg-black text-center flex flex-col items-center justify-center -z-10">
     <p class="mt-2">
       ELITE TRACK & FIELD CLUB OPERATING OUT OF WATERLOO REGION
     </p>

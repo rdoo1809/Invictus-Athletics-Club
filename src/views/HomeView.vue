@@ -17,13 +17,26 @@ watch(isDark, (newVal) => {
 
 <template>
   <NavBar/>
-<!--  <VideoHeader />-->
+
+  <div class="flex justify-center m-6">
+    <h1 class="text-6xl font-bold">INVICTUS</h1>
+  </div>
+
+  <VideoHeader />
+
   <MediaScroller />
-<!--  <About />-->
+
+  <About/>
 
   <Footer />
+
   <ThemeToggler/>
 </template>
 
+<style>
+  h1 {
+    font-family: "Fjalla One", sans-serif;
+  }
+</style>
 
 

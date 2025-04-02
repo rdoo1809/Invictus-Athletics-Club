@@ -1,9 +1,9 @@
 <script setup>
-import TrackArtWhite from "@/assets/track_art_white.png"
+import NameLogo from "@/assets/name-logo.png"
 </script>
 
 <template>
-  <div class="w-full flex flex-col items-center bg-white dark:bg-black mb-12">
+  <div class="w-full flex flex-col items-center bg-white mb-36 div-border">
     <div class="mx-12 my-4 text-div">
       Invictus Athletics Club is an elite track and field club operating out of the Waterloo Region in Ontario. We focus
       on hurdles and sprints.
@@ -15,7 +15,7 @@ import TrackArtWhite from "@/assets/track_art_white.png"
       seen much success since being formed in the latter half of the 2010’s.
     </div>
 
-    <img class="h-18 w-52" :src="TrackArtWhite" alt="Image of a Track"/>
+    <img class="h-24" :src="NameLogo" alt="Image of a Track"/>
 
     <div class="mx-12 my-4 text-div">
       As a club we aim to provide the highest quality of sprint and hurdle training to youth in the region
@@ -33,8 +33,12 @@ import TrackArtWhite from "@/assets/track_art_white.png"
 </template>
 
 <style scoped>
-text-div {
-  @apply text-black dark:text-white;
+.text-div {
   font-family: "Fjalla One", sans-serif;
+}
+
+.div-border {
+  border-top: 2px solid gold;
+  border-bottom: 2px solid gold;
 }
 </style>

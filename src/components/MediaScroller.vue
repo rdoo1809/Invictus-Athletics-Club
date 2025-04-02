@@ -37,7 +37,7 @@ onUnmounted(() => window.removeEventListener("keydown", handleKeyDown));
 </script>
 
 <template>
-  <div class="media-scroller snaps-inline dark:bg-black bg-white">
+  <div class="media-scroller snaps-inline mt-2 dark:bg-black bg-white">
     <div
         v-for="(img, index) in images"
         :key="index"
