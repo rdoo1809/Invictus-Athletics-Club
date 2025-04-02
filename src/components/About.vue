@@ -35,6 +35,7 @@ import NameLogo from "@/assets/name-logo.png"
 <style scoped>
 .text-div {
   font-family: "Fjalla One", sans-serif;
+  font-size: larger;
 }
 
 .div-border {
