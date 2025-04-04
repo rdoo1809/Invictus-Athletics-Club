@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="small adjustments">
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/boys_team.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/girls_team.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/logo.da9b9095.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/moon-light.0f50216c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/sun-light.8b5cf2fb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="add more images">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/MediaScroller.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MediaScroller.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +103,7 @@
       <option name="presentableId" value="Default" />
       <updated>1743435319328</updated>
       <workItem from="1743435320448" duration="12473000" />
-      <workItem from="1743606984899" duration="11686000" />
+      <workItem from="1743606984899" duration="12896000" />
     </task>
     <task id="LOCAL-00001" summary="git init, conditionally show logo">
       <option name="closed" value="true" />
@@ -244,7 +241,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743616438700</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add more images">
+      <option name="closed" value="true" />
+      <created>1743627159238</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1743627159238</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +281,7 @@
     <MESSAGE value="set up contact" />
     <MESSAGE value="update readme" />
     <MESSAGE value="small adjustments" />
-    <option name="LAST_COMMIT_MESSAGE" value="small adjustments" />
+    <MESSAGE value="add more images" />
+    <option name="LAST_COMMIT_MESSAGE" value="add more images" />
   </component>
 </project>

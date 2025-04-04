@@ -3,7 +3,7 @@ import NameLogo from "@/assets/name-logo.png"
 </script>
 
 <template>
-  <div id="about" class="w-full flex flex-col items-center bg-white div-border">
+  <div id="about" class="w-full flex flex-col items-center bg-white div-border py-12">
     <div class="mx-12 my-4 text-div">
       Invictus Athletics Club is an elite track and field club operating out of the Waterloo Region in Ontario. We focus
       on hurdles and sprints.

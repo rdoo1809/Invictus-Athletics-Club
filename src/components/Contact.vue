@@ -3,7 +3,7 @@ import TrackArt from "@/assets/track_art.png";
 </script>
 
 <template>
-  <div id="contact" class="w-full flex justify-center bg-white dark:bg-black">
+  <div id="contact" class="w-full flex justify-center bg-white dark:bg-black py-12">
     <div class="sub-container w-3/4 p-24 my-4 flex flex-col items-center gap-4">
       <h2>GET IN TOUCH WITH US!</h2>
       <h2 class="w-full">We would love to hear about you and your Track and Field goals!</h2>
