@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="convert all images to webp">
+    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="adjustments for mobile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/MediaScroller.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MediaScroller.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +103,7 @@
       <workItem from="1743435320448" duration="12473000" />
       <workItem from="1743606984899" duration="13282000" />
       <workItem from="1743775052860" duration="3463000" />
-      <workItem from="1744316344343" duration="4662000" />
+      <workItem from="1744316344343" duration="4972000" />
     </task>
     <task id="LOCAL-00001" summary="git init, conditionally show logo">
       <option name="closed" value="true" />
@@ -293,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744383208641</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="adjustments for mobile">
+      <option name="closed" value="true" />
+      <created>1744386778955</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1744386778955</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -330,6 +334,7 @@
     <MESSAGE value="additional images" />
     <MESSAGE value="initial commit" />
     <MESSAGE value="convert all images to webp" />
-    <option name="LAST_COMMIT_MESSAGE" value="convert all images to webp" />
+    <MESSAGE value="adjustments for mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjustments for mobile" />
   </component>
 </project>

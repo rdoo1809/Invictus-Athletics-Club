@@ -36,6 +36,7 @@ import NameLogo from "@/assets/name-logo.webp"
 .text-div {
   font-family: "Fjalla One", sans-serif;
   font-size: larger;
+  color: black;
 
 }
 
