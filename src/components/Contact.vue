@@ -5,10 +5,10 @@ import TrackArt from "@/assets/track_art.webp";
 <template>
   <div id="contact" class="w-full flex justify-center bg-white dark:bg-black py-12">
     <div class="sub-container w-3/4 my-4 flex flex-col items-center gap-4">
-      <h2>GET IN TOUCH WITH US!</h2>
-      <h2 class="w-full">We would love to hear about you and your Track and Field goals!</h2>
-      <img class="h-24" :src="TrackArt" alt="Image of a Track"/>
-      <h2><a href="mailto:info@invictusathletics.ca?subject=Invictus Athletics Club - Website Contact">Click to CONTACT</a></h2>
+      <h2 class="text-color">GET IN TOUCH WITH US!</h2>
+      <h2 class="w-full text-color">We would love to hear about you and your Track and Field goals!</h2>
+      <img class="h-24 text-color" :src="TrackArt" alt="Image of a Track"/>
+      <h2><a href="mailto:info@invictusathletics.ca?subject=Invictus Athletics Club - Website Contact" class="text-color">Click to CONTACT</a></h2>
     </div>
   </div>
 </template>
@@ -28,6 +28,10 @@ a {
 h2 {
   font-family: "Fjalla One", sans-serif;
   font-size: 24px;
+}
+
+.text-color {
+  @apply text-black
 }
 
 @media screen and (min-width: 500px) {
