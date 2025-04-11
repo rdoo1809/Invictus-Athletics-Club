@@ -19,7 +19,7 @@ watch(isDark, (newVal) => {
 <template>
   <NavBar/>
 
-  <div class="flex justify-center m-10">
+  <div class="flex justify-center m-10 bg-white dark:bg-black">
     <h1 class="text-6xl font-bold">INVICTUS</h1>
   </div>
 

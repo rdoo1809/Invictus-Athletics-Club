@@ -4,52 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/assets/logo_black.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/logo_white.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/name-logo.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/aidenC.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/alissaRay.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/alum2019.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/beechy.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/bellBren.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/boys_team.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/coleCoach.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/districtC.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/girlRelay.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/girls_team.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/jusKay.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/oliv.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/squad2017.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/squad2018.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/teamO.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/scroller/threeAmi.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/track_art.webp" afterDir="false" />
+    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="convert all images to webp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo_white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/name-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/aidenC.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/alissaRay.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/alum2019.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/beechy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/bellBren.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/boys_team.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/coleCoach.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/districtC.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/girlRelay.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/girls_team.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/jusKay.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/oliv.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/squad2017.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/squad2018.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/teamO.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/scroller/threeAmi.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/track_art.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/MediaScroller.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MediaScroller.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/NavBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/HomeView.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +107,7 @@
       <workItem from="1743435320448" duration="12473000" />
       <workItem from="1743606984899" duration="13282000" />
       <workItem from="1743775052860" duration="3463000" />
-      <workItem from="1744316344343" duration="3425000" />
+      <workItem from="1744316344343" duration="4662000" />
     </task>
     <task id="LOCAL-00001" summary="git init, conditionally show logo">
       <option name="closed" value="true" />
@@ -323,7 +285,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744381469354</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="convert all images to webp">
+      <option name="closed" value="true" />
+      <created>1744383208641</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1744383208641</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -359,6 +329,7 @@
     <MESSAGE value="adjust spacing" />
     <MESSAGE value="additional images" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="convert all images to webp" />
+    <option name="LAST_COMMIT_MESSAGE" value="convert all images to webp" />
   </component>
 </project>
