@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="adjust colors">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/aidenC.e24bf495.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/alissaRay.7a0acf5c.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/beechy.4df0c8cf.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/coleCoach.28454df5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/districtC.4f68e933.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/girlRelay.1b01d315.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index.753264f3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/index.c0d489ef.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/jusKay.7e26eec0.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/logo_black.e0067c6e.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/logo_white.cae03b88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/moon-light.0f50216c.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/name-logo.d73ef563.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/oliv.43ceb0b3.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/squad2017.a4073198.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/squad2018.0b42c5e5.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/sun-light.8b5cf2fb.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/teamO.da694fdb.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/threeAmi.a5ebf20d.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/track.5d07c5e8.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/assets/track_art.d3549f96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/@vueuse_core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/@vueuse_core.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-B7LC2MEY.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-B7LC2MEY.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js.map" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2v5WGS3cK6Pkg8ncnTdEQCIFKz1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ryandooley/GitHub/invictus25/src/components&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.deploy.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/Applications/PhpStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets/scroller" />
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.deploy">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.build" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-PS-243.22562.233" />
+        <option value="bundled-php-predefined-a98d8de5180a-7980c7aaca61-com.jetbrains.php.sharedIndexes-PS-243.22562.233" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="" />
+      <created>1743435319328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1743435319328</updated>
+      <workItem from="1743435320448" duration="12473000" />
+      <workItem from="1743606984899" duration="13282000" />
+      <workItem from="1743775052860" duration="3463000" />
+      <workItem from="1744316344343" duration="1592000" />
+    </task>
+    <task id="LOCAL-00001" summary="git init, conditionally show logo">
+      <option name="closed" value="true" />
+      <created>1743437232071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743437232071</updated>
+    </task>
+    <task id="LOCAL-00002" summary="set up nacbar and footer">
+      <option name="closed" value="true" />
+      <created>1743442467703</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743442467703</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bring in video component">
+      <option name="closed" value="true" />
+      <created>1743443315874</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743443315874</updated>
+    </task>
+    <task id="LOCAL-00004" summary="set up media scroller">
+      <option name="closed" value="true" />
+      <created>1743445130677</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743445130677</updated>
+    </task>
+    <task id="LOCAL-00005" summary="set up media scroller">
+      <option name="closed" value="true" />
+      <created>1743445234481</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1743445234481</updated>
+    </task>
+    <task id="LOCAL-00006" summary="bring in more images">
+      <option name="closed" value="true" />
+      <created>1743445516420</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1743445516420</updated>
+    </task>
+    <task id="LOCAL-00007" summary="enlarge images on click">
+      <option name="closed" value="true" />
+      <created>1743446483753</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1743446483753</updated>
+    </task>
+    <task id="LOCAL-00008" summary="enlarge images on click">
+      <option name="closed" value="true" />
+      <created>1743446853071</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1743446853072</updated>
+    </task>
+    <task id="LOCAL-00009" summary="basic about setup">
+      <option name="closed" value="true" />
+      <created>1743449213832</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1743449213832</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fine stylings">
+      <option name="closed" value="true" />
+      <created>1743609031321</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743609031321</updated>
+    </task>
+    <task id="LOCAL-00011" summary="finetune stylings">
+      <option name="closed" value="true" />
+      <created>1743609842068</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1743609842068</updated>
+    </task>
+    <task id="LOCAL-00012" summary="finetune stylings">
+      <option name="closed" value="true" />
+      <created>1743609847048</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1743609847048</updated>
+    </task>
+    <task id="LOCAL-00013" summary="color scrollbar">
+      <option name="closed" value="true" />
+      <created>1743610588800</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1743610588800</updated>
+    </task>
+    <task id="LOCAL-00014" summary="adjust text size">
+      <option name="closed" value="true" />
+      <created>1743610643815</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1743610643815</updated>
+    </task>
+    <task id="LOCAL-00015" summary="set up contact">
+      <option name="closed" value="true" />
+      <created>1743614902260</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1743614902260</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update readme">
+      <option name="closed" value="true" />
+      <created>1743615665524</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1743615665524</updated>
+    </task>
+    <task id="LOCAL-00017" summary="small adjustments">
+      <option name="closed" value="true" />
+      <created>1743616438700</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1743616438700</updated>
+    </task>
+    <task id="LOCAL-00018" summary="add more images">
+      <option name="closed" value="true" />
+      <created>1743627159238</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1743627159238</updated>
+    </task>
+    <task id="LOCAL-00019" summary="adjust spacing">
+      <option name="closed" value="true" />
+      <created>1743771925120</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1743771925120</updated>
+    </task>
+    <task id="LOCAL-00020" summary="additional images">
+      <option name="closed" value="true" />
+      <created>1743772136810</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1743772136810</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git init, conditionally show logo" />
+    <MESSAGE value="set up nacbar and footer" />
+    <MESSAGE value="bring in video component" />
+    <MESSAGE value="set up media scroller" />
+    <MESSAGE value="bring in more images" />
+    <MESSAGE value="enlarge images on click" />
+    <MESSAGE value="basic about setup" />
+    <MESSAGE value="fine stylings" />
+    <MESSAGE value="finetune stylings" />
+    <MESSAGE value="color scrollbar" />
+    <MESSAGE value="adjust text size" />
+    <MESSAGE value="set up contact" />
+    <MESSAGE value="update readme" />
+    <MESSAGE value="small adjustments" />
+    <MESSAGE value="add more images" />
+    <MESSAGE value="adjust spacing" />
+    <MESSAGE value="additional images" />
+    <option name="LAST_COMMIT_MESSAGE" value="additional images" />
+  </component>
+</project>
