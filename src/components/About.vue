@@ -1,5 +1,5 @@
 <script setup>
-import NameLogo from "@/assets/name-logo.png"
+import NameLogo from "@/assets/name-logo.webp"
 </script>
 
 <template>

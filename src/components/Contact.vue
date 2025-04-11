@@ -1,5 +1,5 @@
 <script setup>
-import TrackArt from "@/assets/track_art.png";
+import TrackArt from "@/assets/track_art.webp";
 </script>
 
 <template>

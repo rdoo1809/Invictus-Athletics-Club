@@ -4,41 +4,52 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="adjust colors">
+    <list default="true" id="777c51ff-03e3-4031-a995-bb4d641f08fe" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/assets/logo_black.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/logo_white.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/name-logo.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/aidenC.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/alissaRay.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/alum2019.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/beechy.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/bellBren.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/boys_team.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/coleCoach.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/districtC.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/girlRelay.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/girls_team.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/jusKay.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/oliv.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/squad2017.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/squad2018.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/teamO.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/scroller/threeAmi.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/track_art.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/aidenC.e24bf495.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/alissaRay.7a0acf5c.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/beechy.4df0c8cf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/coleCoach.28454df5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/districtC.4f68e933.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/girlRelay.1b01d315.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index.753264f3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index.c0d489ef.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/jusKay.7e26eec0.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/logo_black.e0067c6e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/logo_white.cae03b88.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/moon-light.0f50216c.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/name-logo.d73ef563.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/oliv.43ceb0b3.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/squad2017.a4073198.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/squad2018.0b42c5e5.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/sun-light.8b5cf2fb.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/teamO.da694fdb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/threeAmi.a5ebf20d.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/track.5d07c5e8.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/track_art.d3549f96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/@vueuse_core.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/@vueuse_core.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-B7LC2MEY.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/chunk-B7LC2MEY.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue-router.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/vue.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo_white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/name-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/aidenC.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/alissaRay.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/alum2019.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/beechy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/bellBren.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/boys_team.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/coleCoach.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/districtC.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/girlRelay.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/girls_team.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/jusKay.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/oliv.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/squad2017.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/squad2018.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/teamO.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/scroller/threeAmi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/track_art.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/About.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Contact.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Contact.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/MediaScroller.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/MediaScroller.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/NavBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/NavBar.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +145,7 @@
       <workItem from="1743435320448" duration="12473000" />
       <workItem from="1743606984899" duration="13282000" />
       <workItem from="1743775052860" duration="3463000" />
-      <workItem from="1744316344343" duration="1592000" />
+      <workItem from="1744316344343" duration="3425000" />
     </task>
     <task id="LOCAL-00001" summary="git init, conditionally show logo">
       <option name="closed" value="true" />
@@ -296,7 +307,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743772136810</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1744381457947</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744381457947</updated>
+    </task>
+    <task id="LOCAL-00022" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1744381469354</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1744381469354</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -331,6 +358,7 @@
     <MESSAGE value="add more images" />
     <MESSAGE value="adjust spacing" />
     <MESSAGE value="additional images" />
-    <option name="LAST_COMMIT_MESSAGE" value="additional images" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>

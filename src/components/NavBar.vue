@@ -1,7 +1,7 @@
 <script setup>
 import {ref} from "vue";
-import LogoBlack from "@/assets/logo_black.png"
-import LogoWhite from "@/assets/logo_white.png"
+import LogoBlack from "@/assets/logo_black.webp"
+import LogoWhite from "@/assets/logo_white.webp"
 import {useDark} from "@vueuse/core";
 
 const isOpen = ref(false);
