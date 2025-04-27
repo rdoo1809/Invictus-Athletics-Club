@@ -1,11 +1,11 @@
 <script setup>
-import {ref} from "vue";
+import {inject, ref} from "vue";
 import LogoBlack from "@/assets/logo_black.webp"
 import LogoWhite from "@/assets/logo_white.webp"
 import {useDark} from "@vueuse/core";
 
 const isOpen = ref(false);
-const isDark = useDark();
+const isDark = inject("isDark");
 
 const toggleMenu = () => {
   isOpen.value = !isOpen.value;

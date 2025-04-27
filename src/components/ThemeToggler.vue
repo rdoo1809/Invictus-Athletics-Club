@@ -1,9 +1,12 @@
 <script setup>
-import {useDark, useToggle} from "@vueuse/core";
+import {useToggle} from "@vueuse/core";
 import Moon from "@/assets/moon-light.svg"
 import Sun from "@/assets/sun-light.svg"
+import {inject} from "vue";
 
-const isDark = useDark();
+
+
+const isDark = inject("isDark");
 const toggleDark = useToggle(isDark);
 </script>
 
