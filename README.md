@@ -1,6 +1,6 @@
 # Invictus Athletics Club Website 2025 Update
 
-https://rdoo1809.github.io/Invictus-Athletics-Club/
+https://invictusathletics.ca/
 
 Official website of Invictus Athletics Club, a youth track club based in the Waterloo region.
 
